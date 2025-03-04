@@ -1,5 +1,5 @@
 CONFIG = {
-    "TOKEN": "MTEyMDgyMzY4MzY4MjkzNDg1NA.GKIp25.Pokyy_LAMKoLhcc46GnDAWo5YcsqGDNiImQj9c", #change par ton token
+    "TOKEN": "ton_token", #change par ton token
     "PREFIX": "!",
     "SERVER_IP": "node02.fardihosting.fr",  # Adresse du serveur Minecraft
     "SERVER_PORT": 25312,  # Port Minecraft
